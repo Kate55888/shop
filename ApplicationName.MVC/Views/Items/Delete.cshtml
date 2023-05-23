@@ -1,0 +1,25 @@
+﻿@model ApplicationName.Domain.Models.Item
+
+<div class="align-content-xxl-center">
+    <form method="post" asp-action="Delete">
+        <input asp-for="Id" hidden/>
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary">Delete?</h2>
+                <hr/>
+            </div>
+            <div class="mb-3">
+                <label hidden asp-for="Name"></label>
+                <input hidden asp-for="Name" disabled class="form-control"/>
+            </div>
+            <div class="mb-3">
+                <label hidden asp-for="Price"></label>
+                <input hidden asp-for="Price" disabled class="form-control"/>
+            </div>
+            <button type="submit" class="btn btn-danger" style="width:150px">Delete!</button>
+            <a asp-controller="Items" asp-action="Index" class="btn btn-secondary" style="width:150px">
+                Back :(
+            </a>
+        </div>
+    </form>
+</div>

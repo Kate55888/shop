@@ -1,0 +1,21 @@
+﻿@model dynamic
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="align-content-xxl-center">
+    <form method="post" asp-action="LogoutD">
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary">Logout?</h2>
+                <hr/>
+            </div>
+            <button type="submit" class="btn btn-danger" style="width:150px">Yes!</button>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-secondary" style="width:150px">
+                Back!
+            </a>
+        </div>
+    </form>
+</div>

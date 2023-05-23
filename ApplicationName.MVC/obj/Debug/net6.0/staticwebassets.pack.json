@@ -1,0 +1,241 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApplicationName.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ApplicationName.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\core-style.css",
+      "PackagePath": "staticwebassets\\css\\core-style.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\nouislider.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i (1).jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i (2).jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i (2).jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i (3).jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i (3).jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i (4).jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i (4).jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i (5).jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i (5).jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i (6).jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i (6).jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\i.jfif",
+      "PackagePath": "staticwebassets\\img\\bg-img\\i.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\bg-img\\tes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-img\\tes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\core-img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\core-img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\core-img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\core-img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\14482049.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\14482049.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\img\\product-img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\js\\jquery\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ermac\\OneDrive\\Рабочий стол\\EcaterinaErmacova\\ApplicationName.MVC\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ApplicationName.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ApplicationName.MVC.props",
+      "PackagePath": "build\\ApplicationName.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ApplicationName.MVC.props",
+      "PackagePath": "buildMultiTargeting\\ApplicationName.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ApplicationName.MVC.props",
+      "PackagePath": "buildTransitive\\ApplicationName.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
